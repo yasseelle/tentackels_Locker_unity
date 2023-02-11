@@ -1,6 +1,6 @@
 [
  {
-    "path": "music.mp3",
+    "path": "/music.mp3",
     "name": "music",
     "bmp": 105,
     "startTime": 0.05,
@@ -10,7 +10,7 @@
     "tags": null
   },
     {
-    "path": "Evolve.mp3",
+    "path": "/Evolve.mp3",
     "name": "Evolve",
     "bmp": 105,
     "startTime": 0.05,
