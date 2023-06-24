@@ -35,7 +35,7 @@
     "bmp": 105,
     "startTime": 0.05,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -45,7 +45,7 @@
     "bmp": 105,
     "startTime": 0.05,
     "diamonds": 50,
-    "type": "VIDEO",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -56,7 +56,7 @@
     "bmp": 105,
     "startTime": 0.05,
     "diamonds": 50,
-    "type": "VIDEO",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -66,7 +66,7 @@
     "bmp": 105,
     "startTime": 0.05,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -76,7 +76,7 @@
     "bmp": 105,
     "startTime": 0.05,
     "diamonds": 50,
-    "type": "VIDEO",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -86,7 +86,7 @@
     "bmp": 105,
     "startTime": 0.05,
     "diamonds": 70,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -96,7 +96,7 @@
     "bmp": 92,
     "startTime": 0.58,
     "diamonds": 30,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 0,
     "tags": null
   },
@@ -106,7 +106,7 @@
     "bmp": 95,
     "startTime": 1,
     "diamonds": 40,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 0,
     "tags": null
   },
@@ -116,7 +116,7 @@
     "bmp": 100,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 0,
     "tags": null
   },
@@ -126,7 +126,7 @@
     "bmp": 100,
     "startTime": 1,
     "diamonds": 50,
-    "type": "VIDEO",
+    "type": "OPEN",
     "version": 0,
     "tags": null
   },
@@ -136,7 +136,7 @@
     "bmp": 99,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -146,7 +146,7 @@
     "bmp": 100,
     "startTime": 0.9,
     "diamonds": 30,
-    "type": "VIDEO",
+    "type": "OPEN",
     "version": 0,
     "tags": null
   },
@@ -156,7 +156,7 @@
     "bmp": 102,
     "startTime": 0.13,
     "diamonds": 50,
-    "type": "HIDE",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -166,7 +166,7 @@
     "bmp": 102,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -176,7 +176,7 @@
     "bmp": 91,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 0,
     "tags": null
   },
@@ -186,7 +186,7 @@
     "bmp": 110,
     "startTime": 0.45,
     "diamonds": 50,
-    "type": "VIDEO",
+    "type": "OPEN",
     "version": 0,
     "tags": null
   },
@@ -196,7 +196,7 @@
     "bmp": 115,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -206,7 +206,7 @@
     "bmp": 120,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -216,7 +216,7 @@
     "bmp": 120,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -226,7 +226,7 @@
     "bmp": 120,
     "startTime": 1,
     "diamonds": 50,
-    "type": "VIDEO",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -236,7 +236,7 @@
     "bmp": 120,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -246,7 +246,7 @@
     "bmp": 120,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -256,7 +256,7 @@
     "bmp": 120,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -266,7 +266,7 @@
     "bmp": 120,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -276,7 +276,7 @@
     "bmp": 120,
     "startTime": 1,
     "diamonds": 50,
-    "type": "VIDEO",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -286,7 +286,7 @@
     "bmp": 120,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 2,
     "tags": null
   },
@@ -296,7 +296,7 @@
     "bmp": 125,
     "startTime": 1,
     "diamonds": 30,
-    "type": "VIDEO",
+    "type": "OPEN",
     "version": 2,
     "tags": null
   },
@@ -306,7 +306,7 @@
     "bmp": 125,
     "startTime": 0.4,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 0,
     "tags": null
   },
@@ -316,7 +316,7 @@
     "bmp": 125,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -326,7 +326,7 @@
     "bmp": 128,
     "startTime": 0.1,
     "diamonds": 50,
-    "type": "HIDE",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -336,7 +336,7 @@
     "bmp": 128,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 0,
     "tags": null
   },
@@ -346,7 +346,7 @@
     "bmp": 128,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -356,7 +356,7 @@
     "bmp": 128,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -366,7 +366,7 @@
     "bmp": 128,
     "startTime": 1,
     "diamonds": 50,
-    "type": "VIDEO",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -376,7 +376,7 @@
     "bmp": 129,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -386,7 +386,7 @@
     "bmp": 131,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -396,7 +396,7 @@
     "bmp": 133,
     "startTime": 1,
     "diamonds": 50,
-    "type": "VIDEO",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -406,7 +406,7 @@
     "bmp": 133,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -416,7 +416,7 @@
     "bmp": 135,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -426,7 +426,7 @@
     "bmp": 137,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -436,7 +436,7 @@
     "bmp": 140,
     "startTime": 1,
     "diamonds": 50,
-    "type": "VIDEO",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -446,7 +446,7 @@
     "bmp": 141,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -456,7 +456,7 @@
     "bmp": 144,
     "startTime": 0.35,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 0,
     "tags": null
   },
@@ -466,7 +466,7 @@
     "bmp": 145,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 2,
     "tags": null
   },
@@ -476,7 +476,7 @@
     "bmp": 148,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -486,7 +486,7 @@
     "bmp": 149,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 2,
     "tags": null
   },
@@ -496,7 +496,7 @@
     "bmp": 150,
     "startTime": 1,
     "diamonds": 50,
-    "type": "VIDEO",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   },
@@ -506,7 +506,7 @@
     "bmp": 150,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "OPEN",
     "version": 1,
     "tags": null
   }
