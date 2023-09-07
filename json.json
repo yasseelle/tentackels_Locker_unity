@@ -1,5 +1,4 @@
 [
-  
    {
     "path": "/skibidi.mp3",
     "name": "Skibidi Dop Dop Yes Yes",
@@ -8,7 +7,7 @@
     "diamonds": 0,
     "type": "OPEN",
     "version": 1,
-    "tags": Favorite
+    "tags": null
   },
   {
     "path": "/BLOODY MARY.mp3",
