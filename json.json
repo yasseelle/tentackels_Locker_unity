@@ -22,7 +22,7 @@
   {
     "path": "/Numb.mp3",
     "name": "Numb",
-    "bmp": 105,
+    "bmp": 140,
     "startTime": 0.05,
     "diamonds": 50,
     "type": "OPEN",
@@ -32,8 +32,8 @@
  {
     "path": "/Despacito.mp3",
     "name": "Despacito",
-    "bmp": 105,
-    "startTime": 0.05,
+    "bmp": 150,
+    "startTime": 1.05,
     "diamonds": 50,
     "type": "OPEN",
     "version": 1,
@@ -44,7 +44,7 @@
     "path": "/Let It Go.mp3",
     "name": "Let It Go",
     "bmp": 105,
-    "startTime": 0.05,
+    "startTime": 1.05,
     "diamonds": 50,
     "type": "OPEN",
     "version": 1,
