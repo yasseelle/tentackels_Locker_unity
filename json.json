@@ -10,7 +10,7 @@
     "tags": null
   },
   {
-    "path": "/BLOODY MARY.mp3",
+    "path": "/BLOODY_MARY.mp3",
     "name": "BLOODY MARY",
     "bmp": 105,
     "startTime": 0.05,
@@ -41,7 +41,7 @@
   },
   
  {
-    "path": "/Let It Go.mp3",
+    "path": "/Let_It_Go.mp3",
     "name": "Let It Go",
     "bmp": 105,
     "startTime": 1.05,
@@ -61,7 +61,7 @@
     "tags": null
   },
    {
-    "path": "/Let It Go Sing-along.mp3",
+    "path": "/Let_It_Go_Sing-along.mp3",
     "name": "Let It Go Sing-along",
     "bmp": 105,
     "startTime": 0.05,
