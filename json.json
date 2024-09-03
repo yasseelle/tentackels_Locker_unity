@@ -39,30 +39,9 @@
     "version": 1,
     "tags": null
   },
-  
- {
-    "path": "/Let_It_Go.mp3",
-    "name": "Let It Go",
-    "bmp": 105,
-    "startTime": 1.05,
-    "diamonds": 50,
-    "type": "OPEN",
-    "version": 1,
-    "tags": null
-  },
   {
     "path": "/Apologize.mp3",
     "name": "Apologize",
-    "bmp": 105,
-    "startTime": 0.05,
-    "diamonds": 50,
-    "type": "OPEN",
-    "version": 1,
-    "tags": null
-  },
-   {
-    "path": "/Let_It_Go_Sing-along.mp3",
-    "name": "Let It Go Sing-along",
     "bmp": 105,
     "startTime": 0.05,
     "diamonds": 50,
